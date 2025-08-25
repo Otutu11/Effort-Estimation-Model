@@ -110,3 +110,8 @@ Typical performance on synthetic data:
     MAE: ~8-12 person-days
 
     R²: ~0.85-0.95
+
+Author Name: Anslem Otutu
+Github: https://github.com/Otutu11
+
+    
